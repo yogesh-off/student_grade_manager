@@ -67,10 +67,7 @@ Type the menu number and press Enter. Pressing Enter on an empty question cancel
 | 40 - 49 | E |
 | below 40 | F |
 
-## How to run the tests
-```
-python -m unittest discover -s tests -v
-```
+
 
 
 
